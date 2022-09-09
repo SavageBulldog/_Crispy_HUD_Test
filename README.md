@@ -1,6 +1,8 @@
 # _Crispy_HUD_Test
 this is an unreleased version.
 
+![CrispPreviewHUD](https://user-images.githubusercontent.com/96113159/189320620-37f13f61-ae95-44f5-8c30-eb0fc3488ac4.gif)
+
 ## LIVE VERSION TO DOWNLOAD AVAILABLE [>>HERE<<](https://www.moddb.com/mods/stalker-anomaly/addons/crispyhud-151)
 ### Check out my other Mods for Stalker here >[SavageBulldog](https://www.moddb.com/members/savagebulldog)<
 
