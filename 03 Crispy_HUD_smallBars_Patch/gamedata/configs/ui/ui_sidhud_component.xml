@@ -1,0 +1,71 @@
+<window>
+	
+	<sidhud x="0" y="700" width="180" height="24" stretch="1">
+		<ammo_display x="166" y="24" width="16.5" height="23.5" stretch="1">
+				<texture a="200" >ui\sidhud\BackgroundAMMO.dds</texture>
+			
+			<!-- ammo text color is now controled by a table at the top of the script values here will be over ridden -->
+			<third_ammo x="2" y="3" width="26" height="15"> 
+				<text align="1" complex_mode="0" font="small" r="238" g="255" b="230" a="255">third</text>
+			</third_ammo>
+
+			<ap_ammo x="2" y="9" width="26" height="15"> 
+				<text align="1" complex_mode="0" font="small" r="238" g="255" b="230" a="255">ap</text>
+			</ap_ammo>
+
+			<fmj_ammo x="2" y="15" width="26" height="15"> 
+				<text align="1" complex_mode="0" font="small" r="238" g="250" b="230" a="255">fmj</text>
+			</fmj_ammo>
+		</ammo_display>
+
+		<armor_health  x="21" y="35.5" width="140" height="7" stretch="1" >
+				<texture>ui\sidhud\BackgroundARMORsmall.dds</texture>
+			<text align="1" complex_mode="0" x="116" y="-7.5" font="small" r="128" g="215" b="255" a="255">armor</text>
+			<value x="1" y="1" width="138" height="5" stretch="1" horz="1" min="0" max="100" pos="0">
+			<progress>
+				<texture a ="220" >ui\sidhud\BarARMORsmall.dds</texture>
+			</progress>
+			</value>
+		</armor_health>
+
+		<weapon_health x="162.5" y="35" width="4" height="26" stretch="0" >
+				<texture>ui\sidhud\BackgroundWEAPONsmall.dds</texture>
+			<text align="c" complex_mode="0" x="-7" y="-7" font="small" r="255" g="170" b="80" a="255">weapon</text>
+			<value x="0" y="0" width="4" height="26" stretch="0" horz="0" min="0" max="100">
+			<progress>
+				<texture>ui\sidhud\BarWEAPONsmall.dds</texture>
+			</progress>
+			</value>
+		</weapon_health>
+		
+		<rad_health x="20" y="42" width="144" height="10" stretch="1" >
+			<value x="2" y="0.5" width="138" height="5" stretch="1" horz="1" min="0" max="100" pos="0">
+			<progress>
+				<texture>ui\sidhud\BarRADsmall.dds</texture>
+			</progress>
+			</value>
+		</rad_health>
+		
+		<bleeding_health x="20" y="48" width="144" height="10" stretch="1" >
+			<value x="2" y="0" width="138" height="5" stretch="1" horz="1" min="0" max="100" pos="0">
+			<progress>
+				<texture>ui\sidhud\BarBLEEDsmall.dds</texture>
+			</progress>
+			</value>
+		</bleeding_health>
+		
+		<progress_bar_health x="22" y="42.5" width="138" height="5" horz="1" min="0" max="100" pos="0">
+			<progress>
+			<!--light_anim="ui_blinking_1" la_cyclic="0" la_texture="1" la_text="0" la_alpha="1" stretch="1"-->
+				<texture>ui\sidhud\BarHPProgressSmall.dds</texture>
+			</progress>
+		</progress_bar_health>
+
+
+	</sidhud>	
+	
+	
+	
+	
+	
+</window>
