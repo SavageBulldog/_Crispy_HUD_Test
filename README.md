@@ -71,3 +71,9 @@ Strogglet15, RavenAscendant, BlackGrowl, Tronex, ISayRandomThings
 keep pushing through the Zone!
 
 created by SavageBulldog
+
+-------------------
+
+v2-sneak-peek bhs additions
+![sneakpeak](https://media.moddb.com/images/members/5/4593/4592737/profile/CrispyHUDBHS_WIP.gif)
+
