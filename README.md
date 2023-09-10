@@ -74,7 +74,3 @@ created by SavageBulldog
 
 -------------------
 
-v2 bhs additions
-
-![sneakpeek](https://media.moddb.com/images/members/5/4593/4592737/profile/CrispyHUDBHS_WIP.gif)
-
